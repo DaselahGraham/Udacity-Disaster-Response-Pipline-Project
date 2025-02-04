@@ -35,9 +35,11 @@ This project is designed to build an end-to-end data pipeline using Python, with
    ```
 
    This will start a Flask web server, and you can access the web app by clicking the "PREVIEW" button in the Project Workspace IDE.
+![IDE Workspace Terminal](https://github.com/user-attachments/assets/59c13dcb-a1ad-4aae-a76e-d7ffb960f90f)
 
 4. **Website Preview:**
    Once the web app is running, you can open the homepage to view the basic structure. The web app is capable of showing results for the classification of disaster messages. You will also see the visualizations generated from the SQLite database.
+![project ](https://github.com/user-attachments/assets/03b845e5-6628-496f-9973-8d8cb7695fc9)
 
 ### Explanation of the Files in the Repository
 
@@ -49,6 +51,10 @@ The file structure is organized as follows:
     - `master.html`: The main page of the web app.
     - `go.html`: The page that shows classification results.
   - `run.py`: The Flask script to run the app.
+- ![image](https://github.com/user-attachments/assets/5bed21bf-77af-42c6-9634-74cbc36e8590)
+- ![image](https://github.com/user-attachments/assets/63b5aa5b-6138-429e-abc3-110af4259e03)
+- ![image](https://github.com/user-attachments/assets/cc7fe8b4-3587-48e1-8775-f17c3bff9c8c)
+
 
 - **data/**  
   Contains data files and the ETL pipeline script to process the data.
@@ -77,3 +83,4 @@ The file structure is organized as follows:
 
 - Make sure to follow the instructions carefully when running the Python scripts. The paths to the CSV files and database must be correctly specified.
 - The Flask web app allows for creative customization, and you can modify the templates and visualizations as needed. The starter files already include a basic structure for the web app, so you just need to integrate the database and model files.
+- 
