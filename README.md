@@ -39,6 +39,7 @@ This project is designed to build an end-to-end data pipeline using Python, with
 
 4. **Website Preview:**
    Once the web app is running, you can open the homepage to view the basic structure. The web app is capable of showing results for the classification of disaster messages. You will also see the visualizations generated from the SQLite database.
+   
 ![project ](https://github.com/user-attachments/assets/03b845e5-6628-496f-9973-8d8cb7695fc9)
 
 ### Explanation of the Files in the Repository
